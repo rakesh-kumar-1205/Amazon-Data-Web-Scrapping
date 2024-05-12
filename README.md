@@ -22,10 +22,10 @@ Before running the script, ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rakesh-kumar-1205/Web--Scrapping.git
+    git clone https://github.com/rakesh-kumar-1205/Amazon-Data-Web-Scrapping.git
 2. Navigate to the project directory:
     ```bash
-   cd Web--Scrapping   
+   cd Amazon-Data-Web-Scrapping   
 3. Install the required Python packages:
     ```bash
     pip install requirements.txt
